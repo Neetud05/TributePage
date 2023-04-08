@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 3%;
+    padding-bottom: 4px;
+    font-size: 18px;
+}
+
+
+h1.name{
+    text-align: center;
+    font-size: 7vh;
+    text-shadow: 5px 5px 10px white;
+    padding-bottom: 8px;
+}
+
+h1#h{
+    text-align: center;
+    font-size: 5vh;
+    text-shadow: none;
+    padding-bottom: 6px;
+}
+
+#image{
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    display: block;
+border-radius: 50%;
+padding-bottom: 4px;
+position: relative;
+}
+
+.info{
+    line-height: 32px;
+}
+
+.quotes{
+    color:wheat;
+}
+
+p{
+    text-align: center;
+    line-height: 28px;
+}
